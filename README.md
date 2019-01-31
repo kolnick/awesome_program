@@ -24,6 +24,7 @@
   * [软件开发方法](#软件开发方法)
   * [项目相关](#项目相关)
   * [游戏服务端](#游戏服务端)
+  * [数据结构与算法](#数据结构与算法)
 
 * [语言相关](#语言相关)
   * [Android](#android)
@@ -457,4 +458,11 @@
 * [《The Swift Programming Language》中文版](https://www.gitbook.com/book/numbbbbb/-the-swift-programming-language-/details)
 
 ### 游戏服务端
+
+* [从有限状态机到行为树](http://www.aisharing.com/archives/439)
+
+
+### 数据结构与算法
+
+* [数据结构](https://github.com/liuyubobobo/Play-with-Data-Structures.git)
 
